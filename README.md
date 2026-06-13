@@ -1,58 +1,82 @@
-# Hi, I'm Mory Adama 👋
+# Mory Adama
 
-Machine Learning Builder | Data Science & AI Systems  
-Focused on building real-world machine learning solutions
+Machine Learning • Data Science • Artificial Intelligence
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mory13148&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mory13148&layout=compact)
+I build machine learning systems and participate in international AI competitions.
 
 ---
 
-## 🧠 Technical Skills
+## About
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+- 🏅 Bronze Medal — AOAI 2026
+- 🏅 Level 2 Award — IOAI 2025
+- 📍 Bamako, Mali
+- 🎯 Interested in Machine Learning, Deep Learning, Computer Vision and NLP
+- 🌱 Currently learning PyTorch and building end-to-end ML projects
 
 ---
 
-## 🏆 Achievements
+## Technical Skills
 
-- 🥉 Bronze Medal — AOAI 2026 (Tunisia)
-- 🥈 Level 2 Award — IOAI 2025
+**Languages**
+
+Python • C++
+
+**Machine Learning**
+
+Scikit-Learn • PyTorch
+
+**Data Science**
+
+Pandas • NumPy • Matplotlib • Seaborn
+
+**Tools**
+
+Git • GitHub • Jupyter Notebook • Linux
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### Cardiovascular Disease Prediction
-End-to-end ML pipeline for real-world medical risk prediction.
 
-**Highlights:**
-- Data cleaning & preprocessing
+End-to-end machine learning pipeline for cardiovascular disease risk prediction.
+
+**Project Workflow**
+- Data preprocessing
+- Exploratory Data Analysis
 - Feature engineering
-- Model comparison (LogReg, RF, XGBoost)
-- Evaluation: Accuracy, Precision, Recall, F1-score
+- Model training
+- Model comparison
+- Performance evaluation
+
+**Tech Stack**
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- Matplotlib
 
 ---
 
-## 🎯 Current Focus
+## Competitions
 
-- Machine Learning systems for real-world applications  
-- Improving model performance & generalization  
-- Participating in AI competitions
+| Competition | Achievement |
+|------------|------------|
+| AOAI 2026 | Bronze Medal |
+| IOAI 2025 | Level 2 Award |
 
 ---
 
-## 📌 Objective
+## GitHub Statistics
 
-Become a Machine Learning Engineer specializing in production-ready AI systems.
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mory13148&show_icons=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mory13148&layout=compact"/>
+</p>
+
+---
+
+## Current Goal
+
+Build a strong portfolio of machine learning projects and pursue advanced studies in Artificial Intelligence.
