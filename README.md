@@ -1,7 +1,7 @@
 # Hi, I'm Mory Adama 👋
 
-Aspiring Machine Learning Engineer  
-Passionate about Data Science, Machine Learning and AI
+Machine Learning Builder | Data Science & AI Systems  
+Focused on building real-world machine learning solutions
 
 ---
 
@@ -9,16 +9,19 @@ Passionate about Data Science, Machine Learning and AI
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mory13148&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mory13148&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mory13148&layout=compact)
 
 ---
 
-## 🧠 Skills
+## 🧠 Technical Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
@@ -29,19 +32,27 @@ Passionate about Data Science, Machine Learning and AI
 
 ---
 
-## 📌 Featured Project
+## 🚀 Featured Projects
 
 ### Cardiovascular Disease Prediction
+End-to-end ML pipeline for real-world medical risk prediction.
 
-End-to-end machine learning pipeline for predicting cardiovascular disease risk.
-
-- Data preprocessing
+**Highlights:**
+- Data cleaning & preprocessing
 - Feature engineering
-- Model training and comparison
-- Evaluation metrics (accuracy, precision, recall, F1)
+- Model comparison (LogReg, RF, XGBoost)
+- Evaluation: Accuracy, Precision, Recall, F1-score
 
 ---
 
-## 🎯 Goal
+## 🎯 Current Focus
 
-Become a Machine Learning Engineer specialized in real-world AI systems.
+- Machine Learning systems for real-world applications  
+- Improving model performance & generalization  
+- Participating in AI competitions
+
+---
+
+## 📌 Objective
+
+Become a Machine Learning Engineer specializing in production-ready AI systems.
