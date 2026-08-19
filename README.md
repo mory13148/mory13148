@@ -20,7 +20,7 @@ I build machine learning systems and participate in international AI competition
 
 **Languages**
 
-Python • C++
+Python • C
 
 **Machine Learning**
 
