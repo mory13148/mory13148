@@ -8,7 +8,8 @@ I build **real-world machine learning systems**, explore artificial intelligence
 
 ## 🚀 About Me
 
-* 🏅 **Bronze Medal — AOAI 2026**
+* 🥉 **Bronze Medal — AOAI 2026**
+* 🌍 **Participant — IOAI 2026**
 * 🏅 **Level 2 Award — IOAI 2025**
 * 📍 **Bamako, Mali**
 * 🤖 Interested in **Machine Learning, Deep Learning, Computer Vision & NLP**
@@ -87,11 +88,12 @@ The long-term objective is to build a strong, practical portfolio demonstrating 
 
 ---
 
-## 🏆 Competitions
+## 🏆 AI Competitions
 
 | Competition  | Achievement   |
 | ------------ | ------------- |
 | 🥉 AOAI 2026 | Bronze Medal  |
+| 🌍 IOAI 2026 | Participant   |
 | 🏅 IOAI 2025 | Level 2 Award |
 
 ---
