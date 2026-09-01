@@ -38,55 +38,6 @@ I build **real-world machine learning systems**, explore artificial intelligence
 
 ---
 
-# 🔥 100 Real-World AI Projects
-
-**100 Real-World AI Projects** is my personal machine learning challenge.
-
-The goal is to build **100 AI/ML projects based on real-world problems and real datasets**, following a complete Data Science workflow rather than simply reproducing tutorials.
-
-### 🎯 Project Philosophy
-
-Each project is designed to follow a realistic machine learning pipeline:
-
-```text
-Real-World Problem
-       ↓
-Data Collection
-       ↓
-Data Cleaning
-       ↓
-Exploratory Data Analysis
-       ↓
-Feature Engineering
-       ↓
-Model Development
-       ↓
-Evaluation
-       ↓
-Interpretation
-       ↓
-Documentation
-```
-
-### 📚 What I'm Exploring
-
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Natural Language Processing
-* Time Series
-* Feature Engineering
-* Model Evaluation
-* Data Analysis
-* End-to-End ML Pipelines
-
-### 📊 Goal
-
-**100 projects → 100 problems → 100 datasets → 100 opportunities to learn**
-
-The long-term objective is to build a strong, practical portfolio demonstrating my ability to take a machine learning problem from **raw data to a complete solution**.
-
----
 
 ## 🏆 AI Competitions
 
