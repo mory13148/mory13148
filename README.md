@@ -2,54 +2,44 @@
 
 ### Machine Learning • Data Science • Artificial Intelligence
 
-I build **real-world machine learning systems**, explore artificial intelligence through hands-on projects, and participate in international AI competitions.
+I build **machine learning and AI projects** and participate in international AI competitions.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-* 🥉 **Bronze Medal — AOAI 2026**
-* 🌍 **Participant — IOAI 2026**
-* 🏅 **Level 2 Award — IOAI 2025**
-* 📍 **Bamako, Mali**
-* 🤖 Interested in **Machine Learning, Deep Learning, Computer Vision & NLP**
-* 🌱 Currently learning **PyTorch**
-* 🔬 Building end-to-end machine learning projects with real-world datasets
-
----
-
-## 🧠 Technical Skills
-
-### Languages
-
-`Python` • `C`
-
-### Machine Learning & AI
-
-`Scikit-Learn` • `PyTorch`
-
-### Data Science
-
-`Pandas` • `NumPy` • `Matplotlib` • `Seaborn`
-
-### Tools
-
-`Git` • `GitHub` • `Jupyter Notebook` • `Linux`
+* 🥉 Bronze Medal — AOAI 2026
+* 🌍 Participant — IOAI 2026
+* 🏅 Level 2 Award — IOAI 2025
+* 📍 Bamako, Mali
+* 🤖 ML • Deep Learning • Computer Vision • NLP
+* 🌱 Currently learning PyTorch
 
 ---
 
+## Skills
 
-## 🏆 AI Competitions
+**Languages:** Python • C
 
-| Competition  | Achievement   |
-| ------------ | ------------- |
-| 🥉 AOAI 2026 | Bronze Medal  |
-| 🌍 IOAI 2026 | Participant   |
-| 🏅 IOAI 2025 | Level 2 Award |
+**ML / AI:** Scikit-Learn • PyTorch
+
+**Data:** Pandas • NumPy • Matplotlib • Seaborn
+
+**Tools:** Git • GitHub • Jupyter • Linux
 
 ---
 
-## 📈 GitHub Statistics
+## Competitions
+
+| Competition | Achievement      |
+| ----------- | ---------------- |
+| AOAI 2026   | 🥉 Bronze Medal  |
+| IOAI 2026   | 🌍 Participant   |
+| IOAI 2025   | 🏅 Level 2 Award |
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=mory13148&show_icons=true"/>
@@ -58,14 +48,8 @@ I build **real-world machine learning systems**, explore artificial intelligence
 
 ---
 
-## 🎯 Current Goal
+### 🎯 Goal
 
-Build a strong portfolio of **real-world machine learning projects**, deepen my knowledge of **Deep Learning and AI**, and prepare for advanced studies and future opportunities in **Artificial Intelligence**.
+Become a **Machine Learning / AI Engineer**.
 
----
-
-## 💡 Long-Term Vision
-
-> **Learn by building. Build by solving real problems.**
-
-My goal is to become a strong **Machine Learning / AI Engineer** capable of designing, training, evaluating, and deploying intelligent systems that solve meaningful real-world problems.
+> Learn by building.
