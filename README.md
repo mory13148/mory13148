@@ -42,8 +42,8 @@ I build **machine learning and AI projects** and participate in international AI
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mory13148&show_icons=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mory13148&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mory13148&show_icons=true&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mory13148&layout=compact&hide_border=true" height="170">
 </p>
 
 ---
