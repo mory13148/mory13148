@@ -13,7 +13,6 @@ I build **machine learning and AI projects** and participate in international AI
 * 🏅 Level 2 Award — IOAI 2025
 * 📍 Bamako, Mali
 * 🤖 ML • Deep Learning • Computer Vision • NLP
-* 🌱 Currently learning PyTorch
 
 ---
 
